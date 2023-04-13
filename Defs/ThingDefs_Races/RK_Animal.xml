@@ -59,7 +59,7 @@
 		</tools>
 		<comps>
 			<li Class="CompProperties_Shearable">
-				<woolDef>RK_Wool_KingHamster</woolDef>
+				<woolDef>Leather_Simp</woolDef>
 				<shearIntervalDays>12</shearIntervalDays>
 				<woolAmount>90</woolAmount>
 			</li>
