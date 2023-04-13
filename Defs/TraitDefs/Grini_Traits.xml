@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+<TraitDef>
+    <defName>Grinz</defName>
+	 <commonality>0.1</commonality>
+    <degreeDatas>
+      <li>
+        <label>Зелёная энергия</label>
+        <description>В Гринюке странная сила пробудилась.</description>
+        <statOffsets>
+          <GlobalLearningFactor>0.75</GlobalLearningFactor>
+		  <MentalBreakThreshold>-0.04</MentalBreakThreshold>
+        </statOffsets>
+		 <statFactors>
+          <CertaintyLossFactor MayRequire="Ludeon.RimWorld.Ideology">0.5</CertaintyLossFactor>
+        </statFactors>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+  
+</Defs>

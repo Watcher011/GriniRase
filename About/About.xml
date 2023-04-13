@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>GriniRase</name>
+	<author>WatcherXI</author>
+    <supportedVersions>
+		<li>1.3</li>
+    </supportedVersions>
+	<description>
+	Альфа версия мода ! 
+	Выражаем благодарность Художнице Chipzelart за её неоценимый вклад в разработку.
+	</description>
+	<packageId>WatcherXI.GriniRase</packageId>
+</ModMetaData>
