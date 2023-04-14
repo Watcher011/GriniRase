@@ -14,7 +14,7 @@
 		<label>Туристы</label>
 		<description>A colony of recently-arrived off-worlders.</description>
 		<isPlayer>true</isPlayer>
-		<basicMemberKind>Grini</basicMemberKind>
+		<basicMemberKind>GriniColonist</basicMemberKind>
 		<pawnSingular>colonist</pawnSingular>
 		<pawnsPlural>colonists</pawnsPlural>
 		<techLevel>Industrial</techLevel>
@@ -53,6 +53,51 @@
 		</apparelStuffFilter>
 	</FactionDef>
 
+
+	<FactionDef ParentName="SK_PlayerFactionBase">
+		<defName>PlayerGriniMiner</defName>
+		<label>Зелёный подряд</label>
+		<description>Бригада Гринюков шахтёров.</description>
+		<isPlayer>true</isPlayer>
+		<basicMemberKind>GriniMiner</basicMemberKind>
+		<pawnSingular>colonist</pawnSingular>
+		<pawnsPlural>colonists</pawnsPlural>
+		<techLevel>Industrial</techLevel>
+		<factionIconPath>World/WorldObjects/Expanding/Town</factionIconPath>
+		<factionNameMaker>NamerFactionOutlander</factionNameMaker>
+		<settlementNameMaker>NamerSettlementOutlander</settlementNameMaker>
+		<geneticVariance>1</geneticVariance>
+		<allowedCultures>
+			<li>Astropolitan</li>
+		</allowedCultures>
+		<backstoryFilters>
+			<li>
+				<categories>
+					<li>Offworld</li>
+				</categories>
+			</li>
+		</backstoryFilters>
+    <startingTechprintsResearchTags>
+      <li>ClassicStart</li>
+      <li>ClassicStartTechprints</li>
+    </startingTechprintsResearchTags>
+		<startingResearchTags>
+			<li>ClassicStart</li>
+		</startingResearchTags>
+		<apparelStuffFilter>
+			<categories>
+				<li>Leathers</li>
+			</categories>
+			<thingDefs>
+				<li>Kevlar</li>
+				<li>Synthread</li>
+				<li>Hyperweave</li>
+				<li>FerrosiliconAlloy</li>
+				<li>CupronickelAlloy</li>
+				<li>SteelBar</li>
+			</thingDefs>
+		</apparelStuffFilter>
+	</FactionDef>
 	
 
 </Defs>

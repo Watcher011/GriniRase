@@ -233,14 +233,6 @@
 			<ComfyTemperatureMax>23</ComfyTemperatureMax>
 			  <ConstructSuccessChance>1.1</ConstructSuccessChance>
 			<ConstructionSpeed>1.55</ConstructionSpeed>
-			<DeepDrillingSpeed>1</DeepDrillingSpeed>
-			<WorkSpeedGlobal>1.2</WorkSpeedGlobal>
-			
-			   <MedicalTendQuality>-0.2</MedicalTendQuality>
-                    <MedicalTendSpeed>-0.2</MedicalTendSpeed>
-					
-			<MiningSpeed>1.4</MiningSpeed>
-			<MiningYield>1.6</MiningYield>
 			<CollectingSpeed>1</CollectingSpeed>
 			<GeneralLaborSpeed>1</GeneralLaborSpeed>
 			<CleaningSpeed>1</CleaningSpeed>

@@ -9,8 +9,12 @@
         <label>Зелёная энергия</label>
         <description>В Гринюке странная сила пробудилась.</description>
         <statOffsets>
-          <GlobalLearningFactor>0.75</GlobalLearningFactor>
 		  <MentalBreakThreshold>-0.04</MentalBreakThreshold>
+		  <ConstructionSpeed>0.015</ConstructionSpeed>
+			<DeepDrillingSpeed>0.2</DeepDrillingSpeed>
+			<WorkSpeedGlobal>0.1</WorkSpeedGlobal>
+			 <MedicalTendQuality>-0.2</MedicalTendQuality>
+             <MedicalTendSpeed>-0.2</MedicalTendSpeed>
         </statOffsets>
 		 <statFactors>
           <CertaintyLossFactor MayRequire="Ludeon.RimWorld.Ideology">0.5</CertaintyLossFactor>
