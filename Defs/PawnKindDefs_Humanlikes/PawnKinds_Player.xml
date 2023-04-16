@@ -155,6 +155,7 @@
 	<apparelRequired>
       <li>MiningHelmet</li>
       <li>MiningVest</li>
+	  <li>Apparel_Backpack</li>
     </apparelRequired>
     <apparelColor>(255,255,0)</apparelColor>
     <techHediffsMoney>

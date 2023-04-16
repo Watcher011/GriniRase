@@ -2,7 +2,7 @@
 <Defs>
 
 	<ThingDef ParentName="AnimalThingBase">
-		<defName>RK_KingSimp</defName>
+		<defName>KingSimP</defName>
 		<label>Королевский Симпай</label>
 		<description>Редкий вид хомяка созданный безумным гением. Требует особых условий содержания. Крайне не любит делить территорию с другими хомяками, в свободное время строит Таверну</description>
 		<statBases>
@@ -116,8 +116,8 @@
 		</tradeTags>
 	</ThingDef>
 	
-	<PawnKindDef Name="KingSimp" ParentName="AnimalKindBase">
-		<defName>Ratkin_KingSimp</defName>
+	<PawnKindDef Name="KingSimP" ParentName="AnimalKindBase">
+		<defName>KingSimP</defName>
 		<label>Королевский Симпай</label>
 		<race>RK_KingSimp</race>
 		<combatPower>65</combatPower>
