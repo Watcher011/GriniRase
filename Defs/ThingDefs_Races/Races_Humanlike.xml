@@ -176,9 +176,14 @@
 				<li>
 					<key>BeardDef</key>
 					<value>
-						<styleTags>
-							<li>NoBeard</li>
-						</styleTags>
+						<hasStyle>true</hasStyle>
+						<!--<styleTags>
+                            <li>Rural</li>
+							<li>Urban</li>
+							<li>Punk</li>
+                            <li>Tribal</li>
+							<li>Minimal</li>
+                        </styleTags>-->
 					</value>
 				</li>
 			</styleSettings>
