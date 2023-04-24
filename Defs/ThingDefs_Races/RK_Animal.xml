@@ -119,7 +119,7 @@
 	<PawnKindDef Name="KingSimP" ParentName="AnimalKindBase">
 		<defName>KingSimP</defName>
 		<label>Королевский Симпай</label>
-		<race>RK_KingSimp</race>
+		<race>KingSimP</race>
 		<combatPower>65</combatPower>
 		<ecoSystemWeight>0.5</ecoSystemWeight>
 		<wildGroupSize>
