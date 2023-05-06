@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-<!--
+
 <ThingDef ParentName="SK_AnimalThingBase">
 		<defName>GrinCat</defName>
 		<label>ГриньКот</label>
@@ -11,13 +11,13 @@
 			<Mass>10</Mass>
 			<MoveSpeed>6</MoveSpeed>
 			<ComfyTemperatureMin>-27</ComfyTemperatureMin>
-			<ComfyTemperatureMax>30</ComfyTemperatureMax>
+			<ComfyTemperatureMax>35</ComfyTemperatureMax>
 			<MarketValue>120</MarketValue>
 			<ImmunityGainSpeed>5</ImmunityGainSpeed>
 			<MeatAmount>70</MeatAmount>
 			<Flammability>1</Flammability>
-			<ArmorRating_Blunt>8</ArmorRating_Blunt>
-			<ArmorRating_Sharp>1.8</ArmorRating_Sharp>
+			<ArmorRating_Blunt>2</ArmorRating_Blunt>
+			<ArmorRating_Sharp>0.8</ArmorRating_Sharp>
 			<MeleeDodgeChance>0.05</MeleeDodgeChance>
 			<MeleeCritChance>0</MeleeCritChance>
 			<GermResistance>0.15</GermResistance>
@@ -218,5 +218,5 @@
 			</li>
 		</modExtensions>
 	</PawnKindDef>
--->
+
 </Defs>
