@@ -89,7 +89,7 @@
 			<baseBodySize>1.6</baseBodySize>
 			<baseHungerRate>1.7</baseHungerRate>
 			<baseHealthScale>9</baseHealthScale>
-			<foodType>CarnivoreAnimalStrict</foodType>
+			<foodType>CarnivoreAnimal, CarnivoreAnimalStrict, OmnivoreRoughAnimal</foodType>
 			<petness>0</petness>
 			<nameGenerator>NamerAnimalGenericMale</nameGenerator>
 			<nameGeneratorFemale>NamerAnimalGenericFemale</nameGeneratorFemale>
