@@ -22,7 +22,7 @@
 			<MeleeCritChance>0</MeleeCritChance>
 			<GermResistance>0.15</GermResistance>
 			<GermContainment>0.15</GermContainment>
-			<FilthRate>18</FilthRate>
+			<FilthRate>1</FilthRate>
 			<NightVisionEfficiency>1</NightVisionEfficiency>
 		</statBases>
 		<tickerType>Normal</tickerType>

@@ -16,7 +16,7 @@
 			<CarryBulk>140</CarryBulk>
 			<GermResistance>0.15</GermResistance>
 			<GermContainment>0.1</GermContainment>
-			<FilthRate>12</FilthRate>
+			<FilthRate>1</FilthRate>
 			<ArmorRating_Blunt>12</ArmorRating_Blunt>
 			<ArmorRating_Sharp>4</ArmorRating_Sharp>
 			<MeleeDodgeChance>0.05</MeleeDodgeChance>
