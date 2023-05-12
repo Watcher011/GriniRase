@@ -75,7 +75,7 @@
 			<useMeatFrom>Elephant</useMeatFrom>
 			<gestationPeriodDays>8</gestationPeriodDays>
 			<wildness>0</wildness>
-			<trainability>Intermediate</trainability>
+			<trainability>Advanced</trainability>
 			<packAnimal>true</packAnimal>
 			<lifeExpectancy>13</lifeExpectancy>
 			<lifeStageAges>
