@@ -176,8 +176,8 @@
 
 	<ThingDef ParentName="LeatherBase">
 		<defName>Leather_Simp</defName>
-		<label>Пушистый мех Симпая</label>
-		<description>Мех из Благородного Королевского Симпая, если принюхаться то можно почувствовать запах пива из Таверны.</description>
+		<label>Пушистая шерсть Симпая</label>
+		<description>Шерсть из Благородного Королевского Симпая, если принюхаться то можно почувствовать запах пива из Таверны.</description>
 		<graphicData>
 			<color>(255,215,0)</color>
 			<colorTwo>(225,225,0)</colorTwo>
