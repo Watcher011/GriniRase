@@ -4,8 +4,6 @@
 <ThingDef ParentName="SK_AnimalThingBase">
 		<defName>GrinCat</defName>
 		<label>ГриньКот</label>
-		<devNote>misc</devNote>
-		<thingClass>SK.Events.FeralPawn</thingClass>
 		<description>Как Гринюк но меньше , в чём то даже лучше</description>
 		<statBases>
 			<Mass>10</Mass>
