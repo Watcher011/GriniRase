@@ -71,10 +71,6 @@
 			</li>
 		</tools>
 		<comps>
-			<li Class="SK.CompProperties_FilthProducer">
-				<filthType>Filth_AnimalFilth</filthType>
-				<ticksToCreateFilth>1500</ticksToCreateFilth>
-			</li>
 			<li Class="SK.CompProperties_Regeneration">
 				<rateInTicks>500</rateInTicks>
 			</li>
@@ -130,9 +126,6 @@
 			<soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
 			<soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
 			<soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
-			<hediffGiverSets>
-				<li>FuriousPassiveSet</li>
-			</hediffGiverSets>
 		</race>
 		<tradeTags>
 			<li>AnimalUncommon</li>
